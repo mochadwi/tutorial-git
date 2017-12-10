@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 testining Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 Why do we use it?
@@ -5,3 +6,6 @@ It is a long established fact that a reader will be distracted by the readable c
 
 
 
+=======
+blablablalbalbalbabalbalblalbllablablalblalbalblablalbal
+>>>>>>> c2e099aac7d3805487638359f652cfaa092c3ba3
