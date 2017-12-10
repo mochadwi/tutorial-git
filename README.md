@@ -1,2 +1,2 @@
 # tutorial-git
-This repo is for workshop @HB 37
+This repo is for workshop at Homebase 37
